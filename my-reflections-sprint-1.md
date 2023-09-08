@@ -77,11 +77,10 @@ Thinking like a programmer is a skill. There are many routes that can be taken t
 What do you notice?
 The core is to avoid getting overwhelmed by the problem. The role is to be a problem solver and that will involve understanding the problem to establish a path to a solution.
 
+Introduce yourself
 Your name: Anthony Martin
 Your location: Lower Hutt, Wellington
 
-
-Identity, Values, and Strengths
 Something you've been thinking about in terms of values and identity
 Stories of how these values were demonstrated in practice:
 This week while completing the sprint one task, I had to wait at home all week on the expectation of the delivery of a new Dishwashing machine. Some two weeks ago now the dishwashing machine broke down. Following an inspection by a tradesperson, to repair the machine would cost $700 for part and labor. The landlord felt it better to replace the equipment so as to offset a cost in the future. The machine was ordered the previous Friday and the ETA of the new machine was on the following Tuesday (5th of September). Tuesday and Wednesday came and went with no sign of the Dishwasher or any communication from the retailer of the status of the equipment. On calling the retailer, they advised that the machine would come on Friday at 2:00 pm. That morning the retailer contacted me and advised that they would arrive between 2:00 and 2:30 pm. On arrival the old equipment was ready to be removed and new equipment was ready to be installed in a pre-cleaned space. Thanks to the aforementioned preparation the equipment was installed promptly, the water had been previously switched off and needed to be reconnected. Once installed the equipment was tested to ensure that it worked correctly. The installers were able to provide me with an instruction manual, which I read and were able to take away all other packaging.
@@ -95,6 +94,9 @@ Being present - throughout so as to be able to solve the issue,
 Being well prepared - cleaning out the space and preparing to install the new equipment,
 Forward thinking - reading the manual so as to ensure good use of the equipment.  
 
+Why you're attending Dev Academy
+I have been four years at the ANZ Bank and felt that I had worked hard, but my efforts were not recognised, at the same time I was not excited about other opportunities with the Bank. I am looking to retrain with a valued skill in software development and re-enter the workforce.
+
 Blog Post:
 My name is Anthony. I recently finished working 4 years at ANZ Bank. I previously studied at Dev Academy, over 6 years ago. However, on graduating I was offered a role in a different field, that lead me down a different path with my career. Although I worked very hard at the Bank, and could have moved to a different section of the Bank from lending. I did not feel as though the skills I have learned were only of value to the Bank, and if at any stage the Bank were to make serious changes in the light of new technology (AI or other), then I may freely find myself looking for a new job.  
 
@@ -104,10 +106,8 @@ I am a very open person, I like to socialize and communicate, I also take it as 
 
 I have found in my working experience that saying less than is necessary is important. We work today in more social environments and are required to work well with others and to avoid rushing into solving an issue, but realizing that we must work as a team.
 
-Share an example of when you were trying to work productively with others, but there was resistance or tension. Discuss strategies you tried at the time, how effective they were, and your reflections on what other strategies you would try now and why.
 When working on a previous project with 3 other individuals, we had 10 days to provide an outcome. There was tension between two individuals on the team. So as to ensure that the situation would not come to a head, I would isolate out the one of the individuals, and give them time to vent, gain rapport with them. Then we look at the goal and subsequently the task that needed to be completed to, they would feel more encouraged to complete the task now that they have been heard and if other other tasks needed help, they would feel they had a colleague to reach out to.
 
-Why you're attending Dev Academy
-I have been four years at the ANZ Bank and felt that I had worked hard, but my efforts were not recognised, at the same time I was not excited about other opportunities with the Bank. I am looking to retrain with a valued skill in software development and re-enter the workforce.
+
 
 
